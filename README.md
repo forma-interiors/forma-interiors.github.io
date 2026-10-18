@@ -31,3 +31,6 @@
 3. Откройте **Settings → Pages**.
 4. В разделе **Build and deployment** выберите **Deploy from a branch**, ветку `main` и папку `/ (root)`, затем нажмите **Save**.
 5. После публикации GitHub покажет адрес сайта в разделе Pages.
+
+
+Портфолио: 3 проекта; страницы project-1.html, project-2.html, project-3.html; фотографии в images/project-1, project-2, project-3. Для GitHub Pages загрузите ВСЁ содержимое архива в корень репозитория, включая папку images.
